@@ -7,10 +7,6 @@ html {
     font-size: 100%;
 }
 
-body {
-    background-color: beige;
-}
-
 .nav_bar {
     background-color: rgb(83, 27, 27);
     display: flex;
@@ -58,7 +54,6 @@ body {
 }
 
 .main {
-    background-color: rgb(234, 234, 234);
     display: flex;
     margin-top: 50px;
 }
